@@ -34,36 +34,53 @@ Currently exploring:
 
 ## WHAT I DO
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-### DESIGN
+<td width="33%" valign="top">
 
-- Graphic Design
-- UI/UX Design
-- Visual Branding
-- Social Media Design
-- Poster Design
-- Digital Design
+### 01 — CREATE
+
+I create visual experiences
+that communicate ideas clearly.
+
+**Branding**  
+**Graphic Design**  
+**Social Media**  
+**Visual Direction**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 02 — DESIGN
+
+I turn ideas into interfaces
+that feel simple and intuitive.
+
+**UI/UX**  
+**Wireframes**  
+**Design Systems**  
+**Prototypes**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### DEVELOPMENT
+### 03 — BUILD
 
-- HTML
-- CSS
-- JavaScript
-- Laravel
-- React
-- SQL
+I turn designs into functional
+digital experiences.
+
+**Frontend**  
+**Web Development**  
+**Backend**  
+**Digital Products**
 
 </td>
+
 </tr>
 </table>
-
 ---
 
 ## TECH STACK

@@ -225,8 +225,8 @@ VIEW DEVELOPMENT →
 <div align="center">
 
 <img
-  src="https://ghstats.dev/api/card?username=abababilll"
-  width="100%"
+  src="https://ghstats.dev/api/card?username=abababill"
+  width="85%"
   alt="GitHub Activity"
 />
 

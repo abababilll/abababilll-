@@ -146,55 +146,77 @@ Currently exploring:
 
 ## SELECTED WORK
 
-### DESIGN
+<div align="center">
 
-| PROJECT | TYPE | STATUS |
-| :--- | :--- | :---: |
-| Brand Identity | Branding | Completed |
-| Social Media Visuals | Graphic Design | Completed |
-| Y2K Visual Series | Art Direction | Exploring |
-| Digital Product UI | UI/UX | Exploring |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/abababill">
+
+<img src="./assets/design-showcase.gif" width="100%"/>
+
+</a>
+
+### DESIGN & VISUAL
+
+Visual identity, social media,
+poster, branding and digital artwork.
+
+`GRAPHIC DESIGN` `UI/UX` `BRANDING`
+
+<br>
+
+<a href="https://github.com/abababill">
+VIEW DESIGN WORK →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/abababill">
+
+<img src="./assets/development-showcase.gif" width="100%"/>
+
+</a>
 
 ### DEVELOPMENT
 
-| PROJECT | STACK | STATUS |
-| :--- | :--- | :---: |
-| Portfolio Website | HTML / CSS / JS | Building |
-| Dashboard UI | React | Learning |
-| Business Management App | Laravel / MySQL | Learning |
-| REST API Project | Laravel | Learning |
+Web interfaces, frontend experiments,
+business applications and digital products.
 
----
+`HTML` `CSS` `JAVASCRIPT` `LARAVEL`
 
-## DESIGN × DEVELOPMENT
+<br>
 
-<div align="center">
+<a href="https://github.com/abababill">
+VIEW DEVELOPMENT →
+</a>
 
-**DESIGN**
+</td>
 
-↓
-
-**UI / UX**
-
-↓
-
-**FRONTEND**
-
-↓
-
-**BACKEND**
-
-↓
-
-**DIGITAL PRODUCT**
+</tr>
+</table>
 
 </div>
 
-I believe good digital products are not only about how they look.
+---
 
-They should also be:
+## FROM IDEA TO PRODUCT
 
-**USEFUL · SIMPLE · CONSISTENT · FUNCTIONAL**
+<div align="center">
+
+<img src="./assets/design-process.gif" width="90%"/>
+
+<br><br>
+
+### THINK → DESIGN → BUILD → SHIP
+
+**From visual concepts to functional digital experiences.**
+
+</div>
 
 ---
 

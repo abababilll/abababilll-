@@ -21,34 +21,43 @@
 <table width="100%">
 <tr>
 
-<td width="65%" valign="middle">
+<td width="60%" valign="top">
+  
+### Hey, I'm Ibnu Sabil Hidayat.
 
-# Hey, I'm Sabil.
+I'm a **freelance designer** and **aspiring frontend developer** who enjoys combining visual design with technology.
 
-**Designer × Developer**
+I like turning ideas into **clean visuals, intuitive interfaces, and functional digital experiences.**
 
-I create visual identities, interfaces, and digital experiences while continuously exploring the intersection between **design and technology**.
+Currently, I'm focused on growing across:
 
-Currently building my skills in **UI/UX, frontend development, and web technologies** through hands-on projects and experimentation.
+**Graphic Design · UI/UX · Frontend Development · Web Development**
 
 </td>
 
-<td width="35%" valign="middle">
+<td width="40%" valign="top">
 
-```text
-ROLE
+### QUICK INFO
+
+**Role**  
 Freelance Designer
 
-FOCUS
+**Focus**  
 Design × Development
 
-LEARNING
-UI/UX
-Frontend
-Backend
+**Currently Learning**  
+UI/UX · Frontend · Backend
 
-BUILDING
-Digital Products
+**Building**  
+Digital Products & Web Projects
+
+**Open To**  
+Freelance · Collaboration · Opportunities
+
+</td>
+
+</tr>
+</table>
 
 ---
 

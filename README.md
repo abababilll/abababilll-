@@ -32,3 +32,15 @@ I'm a developer from Indonesia who enjoys learning modern web technologies and t
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,python,mysql,git,github,vscode,linux" />
 
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abababilll&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abababilll&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>

@@ -22,3 +22,13 @@ I'm a developer from Indonesia who enjoys learning modern web technologies and t
 - 🐍 Python
 - 🔧 Git & GitHub
 - 📊 Data Analytics
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,python,mysql,git,github,vscode,linux" />
+
+</p>

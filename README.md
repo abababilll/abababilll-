@@ -1,52 +1,37 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                     PROFILE README                         -->
+<!-- ========================================================= -->
 
-<table>
-<tr>
-<td align="center" bgcolor="#FF7A00">
+<div align="center">
 
 # ABABABILLL
 
-`DEVELOPER` · `DESIGNER` · `BUILDER`
+### FREELANCE DESIGNER · UI/UX · FRONTEND DEVELOPER
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:444444&height=180&section=header&text=SABIL&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Design%20%2B%20Code%20%2B%20Creative%20Work&descAlignY=58&descSize=16" />
 
 <br>
 
-<table>
-<tr>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
-<td width="50%" valign="top" bgcolor="#111111">
+</div>
+
+---
 
 ## ABOUT ME
 
-I'm a developer from Indonesia who enjoys learning modern web technologies and turning ideas into projects.
-
-**Currently exploring**
-
-`Frontend Development`
-
-`Laravel & PHP`
-
-`Vue.js`
-
-`Python`
-
-`Git & GitHub`
-
-`Data Analytics`
-
-</td>
-
-<td width="50%" valign="top" bgcolor="#171717">
-
-## CURRENT FOCUS
-
 ```text
-01  Frontend Development
-02  Laravel & PHP
-03  Vue.js
-04  Python
-05  Data Analytics
-06  Automation
+I'm Sabil — a freelance designer and aspiring frontend developer.
+
+I enjoy combining visual design with technology to create
+digital experiences that are simple, functional and visually strong.
+
+Currently exploring:
+
+→ UI/UX Design
+→ Frontend Development
+→ Web Development
+→ Digital Products
+→ Data & Technology

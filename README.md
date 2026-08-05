@@ -4,13 +4,23 @@
 
 ### FREELANCE DESIGNER · UI/UX · FRONTEND DEVELOPER
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=SABIL&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Design%20%2B%20Code%20%2B%20Creative%20Work&descAlignY=58&descSize=16" width="100%"/>
+<div align="center">
+
+<img src="./assets/hero.svg" width="100%" alt="Ibnu Sabil Hidayat — Design, Code & Creative Work"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/abababill)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+<a href="https://github.com/abababill">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0A1630?style=flat-square&logo=github&logoColor=4B9CFF&labelColor=050914" />
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A1630?style=flat-square&logo=linkedin&logoColor=4B9CFF&labelColor=050914" />
+</a>
+
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0A1630?style=flat-square&logo=instagram&logoColor=4B9CFF&labelColor=050914" />
+</a>
 
 </div>
 

@@ -70,31 +70,27 @@ Currently exploring:
 
 ### FRONTEND
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
 
 ### BACKEND
 
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
 ### DATABASE
 
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 ### TOOLS
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ## CURRENTLY LEARNING
 

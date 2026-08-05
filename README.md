@@ -224,12 +224,9 @@ VIEW DEVELOPMENT →
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abababill&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abababill&hide_border=true&theme=dark&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abababill&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" width="100%"/>
 
 </div>
-
 ---
 
 ## CONTRIBUTION GRAPH

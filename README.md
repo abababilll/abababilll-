@@ -18,17 +18,37 @@
 
 ## ABOUT ME
 
-I'm Sabil — a freelance designer and aspiring frontend developer.
+<table width="100%">
+<tr>
 
-I enjoy combining visual design with technology to create digital experiences that are simple, functional, and visually strong.
+<td width="65%" valign="middle">
 
-Currently exploring:
+# Hey, I'm Sabil.
 
-- UI/UX Design
-- Frontend Development
-- Web Development
-- Digital Products
-- Data & Technology
+**Designer × Developer**
+
+I create visual identities, interfaces, and digital experiences while continuously exploring the intersection between **design and technology**.
+
+Currently building my skills in **UI/UX, frontend development, and web technologies** through hands-on projects and experimentation.
+
+</td>
+
+<td width="35%" valign="middle">
+
+```text
+ROLE
+Freelance Designer
+
+FOCUS
+Design × Development
+
+LEARNING
+UI/UX
+Frontend
+Backend
+
+BUILDING
+Digital Products
 
 ---
 

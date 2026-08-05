@@ -1,67 +1,59 @@
-<div align="center">𝘈𝘣𝘢𝘣𝘪𝘭
+<div align="center">Ababil
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Vue.js+Learner;Building+Projects+Every+Day;Never+Stop+Learning." />"Learning one commit at a time."
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=2000&color=8BA4F9&center=true&vCenter=true&width=700&lines=Building+things+one+commit+at+a+time.;Full+Stack+Developer+in+Progress.;Learning+never+stops." /><br>A journey of learning, building, and improving every day.
 
 </div>---
 
-🪐 About Me
+About
 
-👤 Ababil
-📍 Indonesia
-💻 Future Full Stack Developer
-📚 Currently Learning:
-   • HTML
-   • CSS
-   • JavaScript
-   • PHP & Laravel
-   • Vue.js
-   • Python
-🎯 Goal:
-   Build useful products and improve every day.
+I'm a developer from Indonesia who enjoys learning modern web technologies and turning ideas into projects.
+
+Current focus:
+
+- HTML, CSS & JavaScript
+- PHP & Laravel
+- Vue.js
+- Python
+- Git & GitHub
+- Data Analytics
 
 ---
 
-⚒️ Tech Stack
+Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,python,mysql,git,github,vscode,linux&theme=dark"/>
-</p>---
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,python,mysql,git,github,vscode,linux&theme=dark"/></p>---
 
-<div align="center">📊 Statistics
+GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/><img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true"/></div>---
+<p align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=transparent&hide_border=true"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=transparent&hide_border=true"/></p><p align="center"><img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=transparent&hide_border=true"/></p>---
 
-🚧 Current Focus
+Current Journey
 
-███░░░░░░░ HTML/CSS
-████░░░░░░ JavaScript
-███░░░░░░░ Laravel
-██░░░░░░░░ Vue.js
-██░░░░░░░░ Python
-█░░░░░░░░░ Docker
+Frontend Development     ██████████░░ 80%
 
----
+Laravel                  ███████░░░░░ 60%
 
-📂 Featured Projects
+Vue.js                   ██████░░░░░░ 50%
 
-Project| Status
-🌐 Personal Portfolio| 🚧 Building
-⚡ Laravel App| 🚧 Building
-📊 Data Analytics| 📖 Learning
-🤖 Python Automation| 💡 Planning
+Python                   █████░░░░░░░ 45%
+
+Data Analytics           ████░░░░░░░░ 35%
 
 ---
 
-🏆 Achievements
+Selected Projects
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB&theme=tokyonight&no-frame=true&column=4"/></p>---
+portfolio/              Personal website
+laravel-app/            Learning project
+vue-dashboard/          UI practice
+python-tools/           Automation scripts
 
-📈 Activity Graph
+---
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=tokyo-night&hide_border=true"/></p>---
+Activity
 
-<div align="center">«"Every expert was once a beginner."»
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=github-dark&hide_border=true"/></p>---
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&style=for-the-badge&color=7AA2F7"/>⭐ Thanks for stopping by!
+<div align="center">«"Good software is built with patience, curiosity, and consistency."»
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&style=flat-square"/></div>

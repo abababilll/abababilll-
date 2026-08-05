@@ -222,13 +222,73 @@ VIEW DEVELOPMENT →
 
 <div align="center">
 
-<img src="./assets/design-process.gif" width="90%"/>
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="25%">
 
-### THINK → DESIGN → BUILD → SHIP
+<img src="https://img.icons8.com/ios-filled/100/ffffff/light-on.png" width="45"/>
 
-**From visual concepts to functional digital experiences.**
+### IDEA
+
+Concept  
+Research  
+Direction
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/design.png" width="45"/>
+
+### DESIGN
+
+UI/UX  
+Visual  
+Prototype
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/code.png" width="45"/>
+
+### BUILD
+
+Frontend  
+Backend  
+Database
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/rocket.png" width="45"/>
+
+### SHIP
+
+Test  
+Deploy  
+Improve
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+**IDEA → DESIGN → CODE → PRODUCT**
+
+<br>
+
+<sub>
+I turn concepts into visual experiences and functional digital products.
+</sub>
 
 </div>
 

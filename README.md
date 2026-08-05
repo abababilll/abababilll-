@@ -35,3 +35,100 @@ Currently exploring:
 → Web Development
 → Digital Products
 → Data & Technology
+
+WHAT I DO
+�
+
+�
+
+DESIGN
+Graphic Design
+UI/UX Design
+Visual Branding
+Social Media Design
+Poster Design
+Digital Design
+�
+
+�
+
+DEVELOPMENT
+HTML
+CSS
+JavaScript
+Laravel
+React
+SQL
+�
+
+�
+
+TECH STACK
+FRONTEND
+�
+￼ 
+
+BACKEND
+�
+￼ 
+
+DATABASE
+�
+￼ 
+
+TOOLS
+�
+￼ 
+
+CURRENTLY LEARNING
+┌──────────────────────────────────────────────┐
+│                                              │
+│  UI/UX DESIGN                                │
+│  ├── Design Systems                          │
+│  ├── Wireframing                             │
+│  └── Prototyping                             │
+│                                              │
+│  FRONTEND DEVELOPMENT                        │
+│  ├── JavaScript                              │
+│  ├── React                                   │
+│  └── Modern UI                               │
+│                                              │
+│  BACKEND DEVELOPMENT                         │
+│  ├── Laravel                                 │
+│  ├── REST API                                │
+│  └── Database                                │
+│                                              │
+└──────────────────────────────────────────────┘
+SELECTED WORK
+DESIGN
+PROJECT
+TYPE
+STATUS
+Brand Identity
+Branding
+Completed
+Social Media Visuals
+Graphic Design
+Completed
+Y2K Visual Series
+Art Direction
+Exploring
+Digital Product UI
+UI/UX
+Exploring
+DEVELOPMENT
+PROJECT
+STACK
+STATUS
+Portfolio Website
+HTML / CSS / JS
+Building
+Dashboard UI
+React
+Learning
+Business Management App
+Laravel / MySQL
+Learning
+REST API Project
+Laravel
+Learning

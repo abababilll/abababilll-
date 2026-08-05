@@ -52,3 +52,110 @@ Currently exploring:
 04  Python
 05  Data Analytics
 06  Automation
+
+🟧 TECHNOLOGIES
+�
+
+�
+￼
+�
+
+�
+
+
+�
+
+HTML CSS JavaScript PHP Laravel Vue.js
+Python MySQL Git GitHub VS Code Linux
+�
+
+�
+
+�
+
+🟧 GITHUB STATS
+�
+￼
+�
+
+�
+
+🟧 TOP LANGUAGES
+�
+￼
+�
+
+�
+
+🟧 CURRENT JOURNEY
+�
+
+�
+Frontend Development
+████████░░ 80%
+�
+
+�
+Laravel
+██████░░░░ 60%
+�
+
+�
+Vue.js
+█████░░░░░ 50%
+�
+
+�
+Python
+████░░░░░░ 45%
+�
+
+�
+Data Analytics
+███░░░░░░░ 35%
+�
+
+�
+
+🟧 SELECTED PROJECTS
+�
+
+�
+
+01 / PORTFOLIO
+Personal portfolio website.
+Stack
+HTML CSS JS
+�
+
+�
+
+02 / LARAVEL-APP
+Learning project built with Laravel.
+Stack
+PHP Laravel
+�
+
+�
+
+03 / VUE-DASHBOARD
+Dashboard UI practice.
+Stack
+Vue.js UI/UX
+�
+
+�
+
+04 / PYTHON-TOOLS
+Automation & productivity scripts.
+Stack
+Python Automation
+�
+
+�
+
+�
+
+�
+
+🟧 CONTRIBUTION ACTIVITY

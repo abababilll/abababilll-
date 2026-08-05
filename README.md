@@ -1,8 +1,23 @@
+<div align="center">
+
+<table>
+<tr>
+<td align="center" bgcolor="#FF7A00">
+
 # ABABABILLL
 
 `DEVELOPER` · `DESIGNER` · `BUILDER`
 
----
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top" bgcolor="#111111">
 
 ## ABOUT ME
 
@@ -10,9 +25,21 @@ I'm a developer from Indonesia who enjoys learning modern web technologies and t
 
 **Currently exploring**
 
-`Frontend Development` · `Laravel & PHP` · `Vue.js` · `Python` · `Git & GitHub` · `Data Analytics`
+`Frontend Development`
 
----
+`Laravel & PHP`
+
+`Vue.js`
+
+`Python`
+
+`Git & GitHub`
+
+`Data Analytics`
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#171717">
 
 ## CURRENT FOCUS
 

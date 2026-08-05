@@ -68,29 +68,43 @@ Currently exploring:
 
 ## TECH STACK
 
-### FRONTEND
+<table>
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-</p>
+<td align="center" width="25%">
 
-### BACKEND
+**LANGUAGES**
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python" height="42"/>
 
-### DATABASE
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+<td align="center" width="25%">
 
-### TOOLS
+**FRAMEWORKS**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,vue" height="42"/>
+
+</td>
+
+<td align="center" width="25%">
+
+**DATABASE**
+
+<img src="https://skillicons.dev/icons?i=mysql" height="42"/>
+
+</td>
+
+<td align="center" width="25%">
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="42"/>
+
+</td>
+
+</tr>
+</table>
 
 ## CURRENTLY LEARNING
 

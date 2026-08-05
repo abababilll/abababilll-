@@ -224,7 +224,11 @@ VIEW DEVELOPMENT →
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abababill" width="100%"/>
+<img
+  src="https://ghstats.dev/api/card?username=abababill"
+  width="100%"
+  alt="GitHub Activity"
+/>
 
 </div>
 

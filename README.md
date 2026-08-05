@@ -96,38 +96,49 @@ Currently exploring:
 
 <table>
 <tr>
-<td width="33%" align="center">
 
-### UI/UX
+<td width="33%" valign="top">
 
-Wireframing  
-Design Systems  
-Prototyping  
-User Flow
+### 01 — DESIGN
 
-</td>
+> Turning ideas into clear
+> and usable interfaces.
 
-<td width="33%" align="center">
-
-### FRONTEND
-
-HTML  
-CSS  
-JavaScript  
-React
+- UI/UX
+- Design Systems
+- Wireframing
+- Prototyping
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### BACKEND
+### 02 — DEVELOPMENT
 
-Laravel  
-REST API  
-SQL  
-Database
+> Turning designs into
+> functional experiences.
+
+- HTML / CSS
+- JavaScript
+- React
+- Responsive Web
 
 </td>
+
+<td width="33%" valign="top">
+
+### 03 — BACKEND
+
+> Understanding what happens
+> behind the interface.
+
+- Laravel
+- REST API
+- SQL
+- Database
+
+</td>
+
 </tr>
 </table>
 

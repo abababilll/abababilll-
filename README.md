@@ -222,14 +222,14 @@ VIEW DEVELOPMENT →
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/light-on.png" width="45"/>
+### 01
 
-### IDEA
+## IDEA
 
 Concept  
 Research  
@@ -239,9 +239,9 @@ Direction
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/design.png" width="45"/>
+### 02
 
-### DESIGN
+## DESIGN
 
 UI/UX  
 Visual  
@@ -251,9 +251,9 @@ Prototype
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/code.png" width="45"/>
+### 03
 
-### BUILD
+## BUILD
 
 Frontend  
 Backend  
@@ -263,9 +263,9 @@ Database
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/rocket.png" width="45"/>
+### 04
 
-### SHIP
+## SHIP
 
 Test  
 Deploy  
@@ -278,20 +278,17 @@ Improve
 
 <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <br>
 
-**IDEA → DESIGN → CODE → PRODUCT**
-
-<br>
+### THINK → DESIGN → BUILD → SHIP
 
 <sub>
-I turn concepts into visual experiences and functional digital products.
+From visual concepts to functional digital experiences.
 </sub>
 
 </div>
-
 ---
 
 ## GITHUB ACTIVITY

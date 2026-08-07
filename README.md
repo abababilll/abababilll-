@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Ibnu Sabil Hidayat &fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI%20Designer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Abababilll &fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI%20Designer&descAlignY=60"/>
 
 <br>
 

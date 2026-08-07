@@ -1,13 +1,12 @@
 <div align="center">
 
-# ABABABILLL
+# IBNU SABIL HIDAYAT 
 
 ### FREELANCE DESIGNER · UI/UX · FRONTEND DEVELOPER
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Ibnu%20Sabil%20Hidayat&fontColor=ffffff"/>
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:00C6FF,100:0052D4&text=ABABABILLL&fontColor=ffffff&animation=fadeIn"/>
 
 <a href="https://github.com/abababill">
   <img src="https://img.shields.io/badge/PORTFOLIO-0A1630?style=flat-square&logo=github&logoColor=4B9CFF&labelColor=050914" />

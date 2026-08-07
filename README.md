@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=0:00C6FF,100:0052D4&text=ABABABILLL&fontColor=ffffff&fontSize=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0B1220,40:112240,70:1E3A8A,100:2563EB&text=ABABABILLL&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20•%20UI%20Designer&descAlignY=63"/>
 
 <a href="https://github.com/abababill">
   <img src="https://img.shields.io/badge/PORTFOLIO-0A1630?style=flat-square&logo=github&logoColor=4B9CFF&labelColor=050914" />
